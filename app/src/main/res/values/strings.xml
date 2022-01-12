@@ -1,3 +1,54 @@
 <resources>
     <string name="app_name">NearLabs</string>
+
+    <string name="my_nft">My NFTs</string>
+    <string name="see_all">See All</string>
+    <string name="recent_transaction">Recent Transactions</string>
+    <string name="history_transaction">History Transactions</string>
+    <string name="create_nft">Create an NFT</string>
+    <string name="send_nft">Send NFT</string>
+    <string name="sent_to">Sent to</string>
+    <string name="receive_from">Receive from</string>
+    <string name="banner_slogan">Start Creating your NFTs Today</string>
+
+    <string name="transaction_all">All</string>
+    <string name="transaction_sent">Sent</string>
+    <string name="transaction_received">Received</string>
+
+    <string name="claim_button">Claim</string>
+    <string name="description">Description</string>
+    <string name="nft_info">NFT Info</string>
+    <string name="creator">Creator</string>
+    <string name="token_id">Token ID</string>
+    <string name="contract_address">Contract Address</string>
+    <string name="send_gift">Send Gift</string>
+    <string name="share_app">Share App</string>
+    <string name="gift_an_nft">Gift an NFT</string>
+    <string name="import_contact">Import</string>
+
+    <string name="logo">Logo</string>
+    <string name="onboard">onBoard</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="phone_label">Ex. (373) 378 8383</string>
+    <string name="get_started">Get Started</string>
+    <string name="already_have_near_account">Already have Near Account</string>
+    <string name="already_have_near_account_">Already have Near Account?</string>
+    <string name="wallet_name_near">walletName.near</string>
+    <string name="login">Login</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="term_and_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="email_label">example@email.com</string>
+    <string name="enter_verification_code">Enter verification code</string>
+    <string name="_continue">Continue</string>
+    <string name="verification">Verification</string>
+    <string name="did_receive_your_code">Didn\'t receive your code?</string>
+    <string name="resend_your_code">Resend your code</string>
+    <string name="send_to_a_different">Send to a different %s</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="login_with_near">Login with NEAR</string>
+    <string name="create_account_instruction">Enter an Account ID to use with your NEAR account. Your Account ID will be used for all NEAR operations, including sending and receiving assets.</string>
+    <string name="create_near_accoutn">Create Near Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="account_id">Account Id</string>
 </resources>

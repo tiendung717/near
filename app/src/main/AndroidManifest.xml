@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.builds.nearlabs">
+    package="org.app.dzung">
 
     <application
+        android:name="org.app.dzung.NftApp"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -10,8 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NearLabs">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name="org.app.dzung.MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,4 +1,4 @@
-package org.builds.nearlabs
+package org.app.dzung
 
 import org.junit.Test
 
